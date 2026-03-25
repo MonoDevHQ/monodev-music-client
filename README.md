@@ -12,20 +12,20 @@ A modern hybrid Android music client combining web streaming with native system-
 ---
 ## Screenshots
 
-### Home  Player Lyrics 
+### Home - Player - Lyrics 
 <h2 align="center">📱 App Preview</h2>
 <p align="center">
-<img  src="https://github.com/user-attachments/assets/22809129-7e71-4e97-82ce-8367c354bfff"  width="220"/>
-<img src="https://github.com/user-attachments/assets/dda2ab46-c3cd-425e-a98d-f7e70cfe43aa" width="220"/>
-<img src="https://github.com/user-attachments/assets/01e770f2-e7b3-4d30-ae67-63115683f17b"  width="220"/>
+<img  src="https://github.com/user-attachments/assets/22809129-7e71-4e97-82ce-8367c354bfff"  width="220" style="border-radius:12px; margin:8px"/>
+<img src="https://github.com/user-attachments/assets/dda2ab46-c3cd-425e-a98d-f7e70cfe43aa" width="220" style="border-radius:12px; margin:8px"/>
+<img src="https://github.com/user-attachments/assets/01e770f2-e7b3-4d30-ae67-63115683f17b"  width="220" style="border-radius:12px; margin:8px"/>
 </p>
 
-### Recently played Audio Settings Playlist 
+### Recently played - Audio Settings  -  Playlist 
 <h2 align="center">📱 App Preview</h2>
 <p align="center">
-<img  src="https://github.com/user-attachments/assets/5e67af75-7e05-47ef-9e1e-8cbaf4280b85" width="220"/>
-<img  src="https://github.com/user-attachments/assets/b4e19f2e-c3f0-4bff-8e21-2fd2fe896404"  width="220"/>
-<img  src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41"  width="220"/>
+<img  src="https://github.com/user-attachments/assets/5e67af75-7e05-47ef-9e1e-8cbaf4280b85" width="220" style="border-radius:12px; margin:8px"/>
+<img  src="https://github.com/user-attachments/assets/b4e19f2e-c3f0-4bff-8e21-2fd2fe896404"  width="220" style="border-radius:12px; margin:8px"/>
+<img  src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41"  width="220" style="border-radius:12px; margin:8px"/>
 </p>
 
 ## ✨ Features
