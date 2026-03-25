@@ -6,7 +6,7 @@
 
 <h2 align="center">MonoDev Music</h2>
 
-## 🚀 700+ Downloads in 24 Hours!
+## 🚀 750+ Downloads in 24 Hours!
 
 We just hit **700+ downloads in a single day** 🤯  
 
