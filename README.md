@@ -15,7 +15,6 @@
   </a>
 </p>
 
-A modern hybrid Android music client combining web streaming with native system-level controls.
 
 > ⚠️ This is NOT an official app.  
 > This project does not own or host any content.  
