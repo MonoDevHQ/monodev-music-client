@@ -15,7 +15,41 @@ A modern hybrid Android music client combining web streaming with native system-
 > This project does not own or host any content.  
 > All credit goes to the original developers.
 
+---
+## ✨ Features
 
+- 🎵 **Smart Recommendations**  
+  Discover music based on your listening habits  
+
+- 🔄 **Cross-Device Sync**  
+  Keep your music in sync across devices  
+
+- 🎧 **Hi-Res Lossless Audio**  
+  Up to **24-bit / 192kHz** streaming quality  
+
+- 📻 **Infinite Radio**  
+  Continuous playback tailored to your taste  
+
+- 📝 **Synced Lyrics**  
+  Real-time lyrics for a better listening experience  
+
+- ⚡ **Fast & Responsive UI**  
+  Smooth streaming of songs, albums, and playlists  
+
+- 🔎 **Global Search**  
+  Quickly find songs, albums, and playlists  
+
+- 🌐 **Cross-Platform**  
+  Works on both desktop and mobile browsers  
+
+- 🔗 **Shareable Links**  
+  Share tracks and playlists easily  
+
+- 🎛️ **Playback Controls**  
+  Queue, shuffle, and Media Session support  
+
+- 🎚️ **Audio Controls**  
+  Flexible playback and quality settings  
 
 
 ---
@@ -36,16 +70,6 @@ A modern hybrid Android music client combining web streaming with native system-
 <img  src="https://github.com/user-attachments/assets/b4e19f2e-c3f0-4bff-8e21-2fd2fe896404"  width="220" style="border-radius:12px; margin:8px"/>
 <img  src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41"  width="220" style="border-radius:12px; margin:8px"/>
 </p>
-
-## ✨ Features
-
-- 🎵 Full media controls (play, pause, next, previous)
-- 🔁 Like, repeat & seekbar support
-- 🔒 Lock screen media controls
-- 🎛️ Control panel integration
-- ⚡ Optimized performance (smooth experience)
-- 📱 Clean & minimal UI
-- 🔗 Open music links directly in the app
 
 ---
 
