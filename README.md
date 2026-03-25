@@ -26,7 +26,7 @@ A modern hybrid Android music client combining web streaming with native system-
 
 
 ### Audio Settings
-<img  src="https://github.com/user-attachments/assets/b4e19f2e-c3f0-4bff-8e21-2fd2fe896404" /> width="220"/>
+<img  src="https://github.com/user-attachments/assets/b4e19f2e-c3f0-4bff-8e21-2fd2fe896404"  width="220"/>
 
 
 ### Playlist 
