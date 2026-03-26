@@ -6,7 +6,6 @@
 
 <h2 align="center">MonoDev Music</h2>
 
-# 🚀 Rapidly growing — 2000 downloads and counting
 
 ---
 Incredible support from the community — thank you all ❤️  
