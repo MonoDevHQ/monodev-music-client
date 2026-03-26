@@ -29,10 +29,14 @@ Let’s build something amazing together 🎧
   <a href="https://t.me/monodev_music_community">
     <img src="https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+   <a href="https://github.com/Devratan7250/monodev-music-client/issues">
+    <img src="https://img.shields.io/github/issues/Devratan7250/monodev-music-client?style=for-the-badge"/>
+  </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge" />
 </p>
+
 > ⚠️ This is NOT an official app.  
 > This project does not own or host any content.  
 > All credit goes to the original developers.
