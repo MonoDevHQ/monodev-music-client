@@ -19,14 +19,17 @@ Let’s build something amazing together 🎧
 <p align="center">
   <img src="https://img.shields.io/github/stars/Devratan7250/monodev-music-client?style=for-the-badge"/>
 </p>
+
 <p align="center">
   <a href="https://github.com/Devratan7250/monodev-music-client/releases/latest">
-    <img src="https://img.shields.io/badge/Stable-Download-1f883d?style=for-the-badge&logo=android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Stable-Download%20APK-1f883d?style=for-the-badge&logo=android&logoColor=white"/>
   </a>
   <a href="https://github.com/Devratan7250/monodev-music-client/releases/tag/4.0.0">
-  <img src="https://img.shields.io/badge/Beta-Download-orange?style=for-the-badge&logo=android&logoColor=white"/>
-</a>
-  <p align="center">
+    <img src="https://img.shields.io/badge/Beta-Download%20APK-orange?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://t.me/monodev_music_community">
     <img src="https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
@@ -34,9 +37,11 @@ Let’s build something amazing together 🎧
     <img src="https://img.shields.io/github/issues/Devratan7250/monodev-music-client?style=for-the-badge"/>
   </a>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge" />
+  <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge"/>
 </p>
+
 
 > ⚠️ This is NOT an official app.  
 > This project does not own or host any content.  
