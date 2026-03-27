@@ -108,9 +108,23 @@ Some features may be incomplete or unstable.
 <img  src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41"  width="220" style="border-radius:12px; margin:8px"/>
 </p>
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=Devratan7250%2Fmonodev-music-client&type=date&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&theme=dark&logscale&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&logscale&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&logscale&legend=bottom-right" />
+ </picture>
+</a>
+## ❤️ Credits
+
+- Original Monochrome Developers 
+https://github.com/monochrome-music/monochrome
+
+- MonoDev (Android Client)
+
 ---
-
-
 ## Security
 
 The APK has been scanned using **VirusTotal**.
@@ -125,27 +139,8 @@ The app is also scanned by **Google Play Protect before installation**.
 Sometimes Play Protect may show a warning because the app is not from the Play Store.  
 This is normal behaviour for side-loaded apps.
 
-
 ---
 
-## ❤️ Credits
-
-- Original Monochrome Developers 
-https://github.com/monochrome-music/monochrome
-
-- MonoDev (Android Client)
-
----
-## Star History
-
-<a href="https://www.star-history.com/?repos=Devratan7250%2Fmonodev-music-client&type=date&logscale=&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&theme=dark&logscale&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&logscale&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&logscale&legend=bottom-right" />
- </picture>
-</a>
----
 ## Disclaimer
 
 I am **not the developer of Monochrome Music**.
