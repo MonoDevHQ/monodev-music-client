@@ -61,8 +61,8 @@ Some features may be incomplete or unstable.
 - 🔄 **Cross-Device Sync**  
   Keep your music in sync across devices  
 
-- 🎧 **Hi-Res Lossless Audio**  
-  Up to **24-bit / 192kHz** streaming quality  
+- 🎧 **Hi-Res Lossless Audio  
+Up to 24-bit / 192kHz streaming quality with Dolby Atmos support for an immersive experience  > Note: Full Dolby Atmos experience depends on device hardware support
 
 - 📻 **Infinite Radio**  
   Continuous playback tailored to your taste  
