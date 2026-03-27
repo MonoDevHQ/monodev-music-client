@@ -117,6 +117,8 @@ Some features may be incomplete or unstable.
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&logscale&legend=bottom-right" />
  </picture>
 </a>
+---
+
 ## ❤️ Credits
 
 - Original Monochrome Developers 
