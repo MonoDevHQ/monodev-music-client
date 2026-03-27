@@ -24,6 +24,9 @@ Let’s build something amazing together 🎧
   <a href="https://github.com/Devratan7250/monodev-music-client/releases/latest">
     <img src="https://img.shields.io/badge/Download-APK-1f883d?style=for-the-badge&logo=android&logoColor=white"/>
   </a>
+  <a href="https://github.com/Devratan7250/monodev-music-client/releases/tag/4.0.0">
+  <img src="https://img.shields.io/badge/Beta-Download-orange?style=for-the-badge&logo=android&logoColor=white"/>
+</a>
   <a href="https://t.me/monodev_music_community">
     <img src="https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
