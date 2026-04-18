@@ -38,12 +38,15 @@ Let’s build something amazing together 🎧
   </a>
 </p>
 
-### ❤️ Support the Project
+
 
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge"/>
 </p>
+
+### ❤️ Support the Project
+
 <p align="center">
   <a href="https://ko-fi.com/U7U51XZIYN">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
