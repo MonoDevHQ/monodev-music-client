@@ -41,18 +41,18 @@ Let’s build something amazing together 🎧
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge"/>
 </p>
-
-
-> ⚠️ This is NOT an official app.  
-> This project does not own or host any content.  
-> All credit goes to the original developers.
-
 <p align="center">
   <a href="https://ko-fi.com/U7U51XZIYN">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
   </a>
 </p>
 ---
+
+> ⚠️ This is NOT an official app.  
+> This project does not own or host any content.  
+> All credit goes to the original developers.
+
+
 
 ## 🚧 This project is in active development (early build)
 Some features may be incomplete or unstable.
