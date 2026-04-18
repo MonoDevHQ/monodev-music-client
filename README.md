@@ -46,6 +46,7 @@ Let’s build something amazing together 🎧
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
   </a>
 </p>
+
 ---
 
 > ⚠️ This is NOT an official app.  
