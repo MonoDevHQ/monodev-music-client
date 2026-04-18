@@ -48,7 +48,10 @@ Let’s build something amazing together 🎧
 ---
 
 ### ❤️ Support the Project
-If you like the project, consider supporting its development 🙌
+
+Enjoying the project? Consider supporting its development
+
+
 <p align="center">
   <a href="https://ko-fi.com/U7U51XZIYN">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
